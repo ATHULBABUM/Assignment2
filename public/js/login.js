@@ -1,5 +1,4 @@
 function validateLogin(form){
-    alert("success");
 var email=form.inputEmail.value;
 var pass=form.inputPassword.value;
 var email_re=/\S+@\S+\.\S/;

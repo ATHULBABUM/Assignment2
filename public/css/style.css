@@ -1,5 +1,5 @@
 .navbar-custom {
-    background-color: rgb(10, 1, 19);
+    background-color: rgb(5, 4, 90);
     margin-left: 0%;
     margin-right: 0%;
     padding-left: 4%;
@@ -17,7 +17,7 @@
 
 .jumbo1 {
     padding: 0%;
-    background-color: rgba(20, 149, 224, 0.918);
+    background-color: rgba(22, 57, 170, 0.918);
 }
 
 .container {
@@ -107,8 +107,8 @@ h3{
    border: none;
    background: none;
    padding: 0px;
-   font-weight: bold;
-   color: rgb(235, 29, 11);
+   font-weight: italic;
+   color: rgb(8, 8, 8);
 }
 #btn3{
     width: 50%;

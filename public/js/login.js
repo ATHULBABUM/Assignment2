@@ -12,5 +12,8 @@ else if(pass.length<6){
     alert("Check your password");
     return false;
 }
+else{
+    return true;
+}
 
 }
